@@ -11,6 +11,6 @@ Hi, I'm Taofiq, a EFront End developer passionate about web development and help
 - :books: I’m currently learning Reactjs, Typescript, Node.js, Tailwind and MongoDB.
 - :computer: Techs: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/vue.png">
 - :pushpin: Interests: UX, UI Design, Video Editing, Motion Graphics.
+- ⚡ Fun fact: If I'm not found here, I'll most probably be hiking!
 
-⭐️ From [weltonfelix](https://github.com/weltonfelix)
-{"mode":"full","isActive":false}
+
