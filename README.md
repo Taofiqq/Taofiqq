@@ -1,6 +1,6 @@
 ## Taofiq Aiyelabegan
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.taofiqaiyelabegan45@gmail.com)](mailto:taofiqaiyelabegan45@gmail.com)
-[![LinkeIn Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/weltonfelix)](https://dev.to/weltonfelix)
+[![LinkedIn Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/weltonfelix)](https://dev.to/weltonfelix)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=2348142985262&text=Hi!)](https://api.whatsapp.com/send?phone=2348142985262&text=Hi!)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Taofiq__)](https://twitter.com/Taofiq__)
 
