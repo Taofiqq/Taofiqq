@@ -7,9 +7,9 @@
 
 Hi, I'm Taofiq, a Software Engineer passionate about web development and building backend systems that scale.
 
-- :books: I’m currently learning Reactjs, Typescript, Node.js, Tailwind and MongoDB.
+- :books: React.js, Next.js, Nest.js, Node.js, MongoDB, PostgreSQL, MySQL, Docker, Linux, Tailwind, Typescript, React Native
 - :computer: Techs: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"> 
-- :pushpin: Interests: UX, UI Design.
+- :pushpin: Interests: Computer Science Fundamentals, Linux, Kubernetes, AWS, Docker.
 - ⚡ Fun fact: If I'm not found here, I'll most probably be playing football!😄
 - 👯 I’m looking to collaborate on Web development and Open Source Projects.
 
